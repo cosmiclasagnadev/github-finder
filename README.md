@@ -1,6 +1,6 @@
 # Github-Finder
 
-Web App for Searching Github Users - A Udemy Course by Brad Traversy
+Web App for Searching Github Users
 
 ## View the fully deployed web app at:
 > https://github-finder371.netlify.com/
